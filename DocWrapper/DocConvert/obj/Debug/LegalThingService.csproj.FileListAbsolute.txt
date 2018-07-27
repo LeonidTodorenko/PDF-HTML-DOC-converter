@@ -1,0 +1,13 @@
+C:\work leo tmp\CloudMail\work\LegalThingService\LegalThingService\bin\LegalThingService.dll
+C:\work leo tmp\CloudMail\work\LegalThingService\LegalThingService\bin\LegalThingService.pdb
+C:\work leo tmp\CloudMail\work\LegalThingService\LegalThingService\bin\Newtonsoft.Json.dll
+C:\work leo tmp\CloudMail\work\LegalThingService\LegalThingService\bin\System.Net.Http.Formatting.dll
+C:\work leo tmp\CloudMail\work\LegalThingService\LegalThingService\bin\System.Web.Http.dll
+C:\work leo tmp\CloudMail\work\LegalThingService\LegalThingService\bin\System.Web.Http.WebHost.dll
+C:\work leo tmp\CloudMail\work\LegalThingService\LegalThingService\bin\Newtonsoft.Json.xml
+C:\work leo tmp\CloudMail\work\LegalThingService\LegalThingService\bin\System.Net.Http.Formatting.xml
+C:\work leo tmp\CloudMail\work\LegalThingService\LegalThingService\bin\System.Web.Http.xml
+C:\work leo tmp\CloudMail\work\LegalThingService\LegalThingService\bin\System.Web.Http.WebHost.xml
+C:\work leo tmp\CloudMail\work\LegalThingService\LegalThingService\obj\Debug\LegalThingService.dll
+C:\work leo tmp\CloudMail\work\LegalThingService\LegalThingService\obj\Debug\LegalThingService.pdb
+C:\work leo tmp\CloudMail\work\LegalThingService\LegalThingService\obj\Debug\LegalThingService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,31 @@
+Some error occured - 30.12.2014 13:00:58-Message:Запрашиваемый номер семейства не существует.InnerException:StackTrace:   в Microsoft.Office.Interop.Word.Lists.get_Item(Int32 Index)
+   в DocWrapper.Program.BulletsToDefault(String patch, String output) в c:\work leo tmp\CloudMail\work\Doctools\DocWrapper\Program.cs:строка 450
+
+Some error occured - 30.12.2014 13:02:42-Message:Запрашиваемый номер семейства не существует.InnerException:StackTrace:   в Microsoft.Office.Interop.Word.Lists.get_Item(Int32 Index)
+   в DocWrapper.Program.BulletsToDefault(String patch, String output) в c:\work leo tmp\CloudMail\work\Doctools\DocWrapper\Program.cs:строка 450
+
+Some error occured - 30.12.2014 13:03:47-Message:Запрашиваемый номер семейства не существует.InnerException:StackTrace:   в Microsoft.Office.Interop.Word.ListParagraphs.get_Item(Int32 Index)
+   в DocWrapper.Program.BulletsToDefault(String patch, String output) в c:\work leo tmp\CloudMail\work\Doctools\DocWrapper\Program.cs:строка 456
+
+Some error occured - 30.12.2014 13:07:35-Message:Запрашиваемый номер семейства не существует.InnerException:StackTrace:   в Microsoft.Office.Interop.Word.Lists.get_Item(Int32 Index)
+   в DocWrapper.Program.BulletsToDefault(String patch, String output) в c:\work leo tmp\CloudMail\work\Doctools\DocWrapper\Program.cs:строка 450
+
+Some error occured - 30.12.2014 18:18:41-Message:Сервер RPC недоступен. (Исключение из HRESULT: 0x800706BA)InnerException:StackTrace:   в Microsoft.Office.Interop.Word.DocumentClass.SaveAs(Object& FileName, Object& FileFormat, Object& LockComments, Object& Password, Object& AddToRecentFiles, Object& WritePassword, Object& ReadOnlyRecommended, Object& EmbedTrueTypeFonts, Object& SaveNativePictureFormat, Object& SaveFormsData, Object& SaveAsAOCELetter, Object& Encoding, Object& InsertLineBreaks, Object& AllowSubstitutions, Object& LineEnding, Object& AddBiDiMarks)
+   в DocWrapper.Program.BulletsToDefault(String patch, String output) в c:\work leo tmp\CloudMail\work\Doctools\DocWrapper\Program.cs:строка 545
+
+Some error occured - 30.12.2014 18:18:43-Message:Сервер RPC недоступен. (Исключение из HRESULT: 0x800706BA)InnerException:StackTrace:   в Microsoft.Office.Interop.Word.DocumentClass.Close(Object& SaveChanges, Object& OriginalFormat, Object& RouteDocument)
+   в DocWrapper.Program.BulletsToDefault(String patch, String output) в c:\work leo tmp\CloudMail\work\Doctools\DocWrapper\Program.cs:строка 553
+   в DocWrapper.Program.ChangeBulletsToDefault(String input, String output, String name) в c:\work leo tmp\CloudMail\work\Doctools\DocWrapper\Program.cs:строка 287
+   в DocWrapper.Program.OnChangedStartDiff(Object source, FileSystemEventArgs e) в c:\work leo tmp\CloudMail\work\Doctools\DocWrapper\Program.cs:строка 265
+
+Some error occured - 30.12.2014 18:19:22-Message:Файл поврежден.InnerException:StackTrace:   в Microsoft.Office.Interop.Word.Documents.Open(Object& FileName, Object& ConfirmConversions, Object& ReadOnly, Object& AddToRecentFiles, Object& PasswordDocument, Object& PasswordTemplate, Object& Revert, Object& WritePasswordDocument, Object& WritePasswordTemplate, Object& Format, Object& Encoding, Object& Visible, Object& OpenAndRepair, Object& DocumentDirection, Object& NoEncodingDialog, Object& XMLTransform)
+   в DocWrapper.Program.BulletsToDefault(String patch, String output) в c:\work leo tmp\CloudMail\work\Doctools\DocWrapper\Program.cs:строка 505
+
+Some error occured - 30.12.2014 18:27:40-Message:Вызванный объект был отключен от клиентов. (Исключение из HRESULT: 0x80010108 (RPC_E_DISCONNECTED))InnerException:StackTrace:   в Microsoft.Office.Interop.Word.DocumentClass.SaveAs(Object& FileName, Object& FileFormat, Object& LockComments, Object& Password, Object& AddToRecentFiles, Object& WritePassword, Object& ReadOnlyRecommended, Object& EmbedTrueTypeFonts, Object& SaveNativePictureFormat, Object& SaveFormsData, Object& SaveAsAOCELetter, Object& Encoding, Object& InsertLineBreaks, Object& AllowSubstitutions, Object& LineEnding, Object& AddBiDiMarks)
+   в DocWrapper.Program.BulletsToDefault(String patch, String output) в c:\work leo tmp\CloudMail\work\Doctools\DocWrapper\Program.cs:строка 548
+
+Some error occured - 30.12.2014 18:27:40-Message:Неизвестный интерфейс. (Исключение из HRESULT: 0x800706B5)InnerException:StackTrace:   в Microsoft.Office.Interop.Word.DocumentClass.Close(Object& SaveChanges, Object& OriginalFormat, Object& RouteDocument)
+   в DocWrapper.Program.BulletsToDefault(String patch, String output) в c:\work leo tmp\CloudMail\work\Doctools\DocWrapper\Program.cs:строка 556
+   в DocWrapper.Program.ChangeBulletsToDefault(String input, String output, String name) в c:\work leo tmp\CloudMail\work\Doctools\DocWrapper\Program.cs:строка 287
+   в DocWrapper.Program.OnChangedStartDiff(Object source, FileSystemEventArgs e) в c:\work leo tmp\CloudMail\work\Doctools\DocWrapper\Program.cs:строка 265
+

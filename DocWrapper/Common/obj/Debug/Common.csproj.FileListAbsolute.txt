@@ -1,0 +1,2 @@
+C:\work leo tmp\CloudMail\work\LegalThingService\Common\bin\Debug\Common.exe.config
+D:\Data\old work\DocWrapper\Common\bin\Debug\Common.exe.config

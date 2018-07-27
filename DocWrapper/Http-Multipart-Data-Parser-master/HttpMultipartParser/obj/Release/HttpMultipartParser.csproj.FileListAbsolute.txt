@@ -1,0 +1,6 @@
+C:\work leo tmp\CloudMail\work\Doctools\Http-Multipart-Data-Parser-master\HttpMultipartParser\bin\Release\HttpMultipartParser.XML
+C:\work leo tmp\CloudMail\work\Doctools\Http-Multipart-Data-Parser-master\HttpMultipartParser\bin\Release\HttpMultipartParser.dll
+C:\work leo tmp\CloudMail\work\Doctools\Http-Multipart-Data-Parser-master\HttpMultipartParser\bin\Release\HttpMultipartParser.pdb
+C:\work leo tmp\CloudMail\work\Doctools\Http-Multipart-Data-Parser-master\HttpMultipartParser\obj\Release\HttpMultipartParser.dll
+C:\work leo tmp\CloudMail\work\Doctools\Http-Multipart-Data-Parser-master\HttpMultipartParser\obj\Release\HttpMultipartParser.pdb
+C:\work leo tmp\CloudMail\work\Doctools\Http-Multipart-Data-Parser-master\HttpMultipartParser\obj\Release\HttpMultipartParser.csprojResolveAssemblyReference.cache

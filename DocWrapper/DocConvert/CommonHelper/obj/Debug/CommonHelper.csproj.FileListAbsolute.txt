@@ -1,0 +1,6 @@
+C:\work leo tmp\CloudMail\work\LegalThingService\LegalThingService\CommonHelper\bin\Debug\CommonHelper.exe.config
+C:\work leo tmp\CloudMail\work\Doctools\DocConvert\CommonHelper\bin\Debug\CommonHelper.dll.config
+C:\work leo tmp\CloudMail\work\Doctools\DocConvert\CommonHelper\bin\Debug\CommonHelper.dll
+C:\work leo tmp\CloudMail\work\Doctools\DocConvert\CommonHelper\bin\Debug\CommonHelper.pdb
+C:\work leo tmp\CloudMail\work\Doctools\DocConvert\CommonHelper\obj\Debug\CommonHelper.dll
+C:\work leo tmp\CloudMail\work\Doctools\DocConvert\CommonHelper\obj\Debug\CommonHelper.pdb

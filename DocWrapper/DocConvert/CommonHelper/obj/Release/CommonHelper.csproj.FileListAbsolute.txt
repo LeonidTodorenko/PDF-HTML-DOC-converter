@@ -1,0 +1,7 @@
+C:\work leo tmp\CloudMail\work\Doctools\DocConvert\CommonHelper\bin\Release\CommonHelper.dll.config
+C:\work leo tmp\CloudMail\work\Doctools\DocConvert\CommonHelper\bin\Release\CommonHelper.dll
+C:\work leo tmp\CloudMail\work\Doctools\DocConvert\CommonHelper\bin\Release\CommonHelper.pdb
+C:\work leo tmp\CloudMail\work\Doctools\DocConvert\CommonHelper\obj\Release\CommonHelper.dll
+C:\work leo tmp\CloudMail\work\Doctools\DocConvert\CommonHelper\obj\Release\CommonHelper.pdb
+C:\work leo tmp\CloudMail\work\Doctools\DocConvert\CommonHelper\bin\Release\App.config
+C:\work leo tmp\CloudMail\work\Doctools\DocConvert\CommonHelper\obj\Release\CommonHelper.csprojResolveAssemblyReference.cache

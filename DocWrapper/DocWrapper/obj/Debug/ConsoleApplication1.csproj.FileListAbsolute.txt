@@ -1,0 +1,14 @@
+C:\work leo tmp\CloudMail\work\LegalThingService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\work leo tmp\CloudMail\work\LegalThingService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\work leo tmp\CloudMail\work\LegalThingService\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\work leo tmp\CloudMail\work\LegalThingService\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\work leo tmp\CloudMail\work\LegalThingService\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\work leo tmp\CloudMail\work\LegalThingService\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\bin\Debug\CommonHelper.dll
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\bin\Debug\CommonHelper.pdb

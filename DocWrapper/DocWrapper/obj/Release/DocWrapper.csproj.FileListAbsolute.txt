@@ -1,0 +1,14 @@
+C:\work leo tmp\CloudMail\work\Doctools\DocWrapper\bin\Release\App.config
+C:\work leo tmp\CloudMail\work\Doctools\DocWrapper\bin\Release\CommonHelper.dll
+C:\work leo tmp\CloudMail\work\Doctools\DocWrapper\bin\Release\DocX.dll
+C:\work leo tmp\CloudMail\work\Doctools\DocWrapper\bin\Release\CommonHelper.pdb
+C:\work leo tmp\CloudMail\work\Doctools\DocWrapper\obj\Release\DocWrapper.csprojResolveAssemblyReference.cache
+C:\work leo tmp\CloudMail\work\Doctools\DocWrapper\bin\Release\DocWrapper.exe.config
+C:\work leo tmp\CloudMail\work\Doctools\DocWrapper\bin\Release\DocWrapper.exe
+C:\work leo tmp\CloudMail\work\Doctools\DocWrapper\bin\Release\DocWrapper.pdb
+C:\work leo tmp\CloudMail\work\Doctools\DocWrapper\obj\Release\DocWrapper.exe
+C:\work leo tmp\CloudMail\work\Doctools\DocWrapper\obj\Release\DocWrapper.pdb
+C:\Data\work\DocWrapper\DocWrapper\bin\Release\DocWrapper.exe.config
+C:\Data\work\DocWrapper\DocWrapper\obj\Release\DocWrapper.exe
+D:\Data\old work\DocWrapper\DocWrapper\bin\Release\DocWrapper.exe.config
+D:\Data\old work\DocWrapper\DocWrapper\obj\Release\DocWrapper.exe

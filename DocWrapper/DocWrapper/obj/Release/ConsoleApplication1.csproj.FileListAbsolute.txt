@@ -1,0 +1,10 @@
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\bin\Release\CommonHelper.dll
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\bin\Release\CommonHelper.pdb
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\bin\Release\App.config
+C:\work leo tmp\CloudMail\work\Doctools\ConsoleApplication1\bin\Release\DocX.dll
